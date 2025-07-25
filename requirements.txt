@@ -1,9 +1,0 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 25 09:44:57 2025
-
-@author: zhi yan
-"""
-
-Flask==2.0.1
-gunicorn==20.1.0
