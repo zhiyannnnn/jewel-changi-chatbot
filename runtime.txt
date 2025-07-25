@@ -1,8 +1,0 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 25 09:46:27 2025
-
-@author: zhi yan
-"""
-
-python-3.9.13
